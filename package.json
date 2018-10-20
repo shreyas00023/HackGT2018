@@ -1,0 +1,23 @@
+{
+  "name": "recipe-bot",
+  "version": "1.0.0",
+  "description": "\"A chatbot that will help you find recipes from a local dataset\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas00023/HackGT2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyas00023/HackGT2018/issues"
+  },
+  "homepage": "https://github.com/shreyas00023/HackGT2018#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "botkit": "^0.6.16"
+  }
+}
